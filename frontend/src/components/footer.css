@@ -1,0 +1,14 @@
+footer.footer{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 5px 25px;
+    background-color: #FFF;
+    box-shadow: var(--shadow);
+    font-size: 0.8em;
+    width: 100vw;
+    height: max-content;
+    box-shadow: var(--shadow);
+    position: fixed;
+    bottom: 0;
+}

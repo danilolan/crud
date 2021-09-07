@@ -1,10 +1,14 @@
 import React from 'react';
+import logo from '../assets/img/logo.png'
+
 import "./logo.css"
 
 function Logo(props) {
     return ( 
     <aside className="logo">
-        Logo
+        <a href="/" className="logo">
+            <img src={logo} alt="logo" />
+        </a>
     </aside> );
 }
 
