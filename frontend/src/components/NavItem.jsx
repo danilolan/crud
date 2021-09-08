@@ -1,12 +1,13 @@
 import React from 'react';
 import './navItem.css'
+import {Link} from 'react-router-dom'
 
 function NavItem(props) {
     return ( 
     <div className="NavItem">
-        <a href={props.href}>
+        <Link to={props.href}>
             <i className={props.icon}></i> {props.label}
-        </a>
+        </Link>
     </div> );
 }
 
