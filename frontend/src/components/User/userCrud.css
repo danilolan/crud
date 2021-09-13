@@ -1,0 +1,9 @@
+.rowButton{
+    columns: 12;
+    display: flex;
+    justify-content: center;
+}
+
+.rowButton button{
+    margin: 10px;
+}
