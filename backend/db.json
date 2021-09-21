@@ -1,25 +1,9 @@
 {
   "users": [
     {
-      "id": 1,
       "name": "Danilo Herculano",
-      "email": "didoherculano@gmail.com"
-    },
-    {
-      "id": 2,
-      "name": "Thais Sales",
-      "email": "thaissales@gmail.com"
-    },
-    {
-      "nome": "",
-      "email": "sarahherculano@gmail.com",
-      "name": "Sarah herculano",
-      "id": 3
-    },
-    {
-      "name": "Camile Melo",
-      "email": "camilemelo@hotmail.com",
-      "id": 4
+      "email": "didoherculano@gmail.com",
+      "id": 1
     }
   ]
 }
